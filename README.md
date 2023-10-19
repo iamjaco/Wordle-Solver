@@ -1,3 +1,6 @@
+# This project is based on the great work done by <a href="https://github.com/kiking0501/Wordle-Solver" target="_blank"><strong>Yin Ki Ng</strong></a>
+
+
 # Wordle Solvers in Python
 
 - To guess an unknown 5-letter English word in fewest attempts
